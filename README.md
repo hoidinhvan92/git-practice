@@ -6,3 +6,4 @@ Thay doi tu github
 dang lam do
 Thay doi tren main
 Thay doi 1 tren rebase-demo
+Thay doi 2 tren rebase-demo
